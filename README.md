@@ -1,4 +1,5 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand"><br>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Akhilesh Gangwar
 </h1>
 
@@ -78,10 +79,7 @@ From building responsive UIs to architecting robust backends, I enjoy turning co
 ---
 ## 🌟 Fun Extras!
 
-### When I Debug  
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" style="max-width: 100%; height: auto; max-height: 300px;" alt="Debugging GIF">
-</p>
+
 
 ### During Deployment  
 <p align="center">
