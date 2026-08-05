@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 <p align="center" style="margin: 20px; font-size: 1.1rem; line-height: 1.5;"> 
-Hey there! I'm Karan, a passionate software engineer dedicated to crafting seamless, engaging, and scalable digital experiences. With expertise in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Bootstrap</strong>, <strong>React</strong>, <strong>JavaScript</strong>, <strong>MongoDB</strong>, and <strong>Node.js</strong>, I combine creativity with technical proficiency to deliver exceptional solutions.
+Hey there! I'm Akhilesh Gangwar, a passionate software engineer dedicated to crafting seamless, engaging, and scalable digital experiences. With expertise in <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Bootstrap</strong>, <strong>React</strong>, <strong>JavaScript</strong>, <strong>MongoDB</strong>, and <strong>Node.js</strong>, I combine creativity with technical proficiency to deliver exceptional solutions.
 
 From building responsive UIs to architecting robust backends, I enjoy turning complex challenges into elegant results. Whether it's a dynamic web app or a scalable database structure, I love innovating and pushing boundaries.
 </p>
