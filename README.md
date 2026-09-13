@@ -146,7 +146,21 @@ Full Stack Developer with strong foundations in **Java**, modern **web developme
 <td width="50%" valign="top">
 <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=220&fit=crop" width="100%" style="border-radius:8px;"/>
 
-**🛰️ Manganese AI**
+
+
+### 🛰️ Manganese AI
+
+AI/ML + Space Technology solution for identifying manganese reserves and addressing production shortfalls using satellite/remote sensing, forecasting, and risk analysis.
+
+<img src="https://img.shields.io/badge/AI%2FML-9B59B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Remote_Sensing-00F5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Forecasting-2C5364?style=flat-square"/>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://manganex-ai.vercel.app/)
+
+</td>
 <br/>
 AI/ML + Space Technology solution for identifying manganese reserves and addressing production shortfalls using satellite/remote sensing, forecasting, and risk analysis.
 
@@ -155,6 +169,9 @@ AI/ML + Space Technology solution for identifying manganese reserves and address
 </td>
 <td width="50%" valign="top">
 <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=500&h=220&fit=crop" width="100%" style="border-radius:8px;"/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)]([https://manganex-ai.vercel.app/))
+
 
 **🔐 Fraud Detection**
 <br/>
