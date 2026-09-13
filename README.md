@@ -103,7 +103,7 @@ Full Stack Developer with strong foundations in **Java**, modern **web developme
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
-**Cloud / Deploy**
+** Deploy**
 <br/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
@@ -134,20 +134,8 @@ Full Stack Developer with strong foundations in **Java**, modern **web developme
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=akhilonix&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/></td>
-<td width="50%"><img src="https://streak-stats.demolab.com/?user=akhilonix&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilonix&layout=compact&theme=tokyonight&hide_border=true" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilonix&theme=tokyo-night&hide_border=true" width="100%"/></td>
-</tr>
-</table>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=akhilonix&hide_title=true&border_radius=12.5)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhilonix&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-</div>
 
 <br/>
 
@@ -217,6 +205,51 @@ Frontend e-commerce/grocery delivery clone built with HTML & CSS, replicating a 
 <td align="center" width="20%">🎯<br/>Growth<br/>Focused</td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🐛 When I Debug
+
+<img
+src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif"
+width="220">
+
+**"It's working..."**
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 During Deployment
+
+<img
+src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif"
+width="220">
+
+**"DEPLOYING..."**
+
+</td>
+
+<td width="33%" align="center">
+
+### 😂 My Reaction
+
+<img
+src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"
+width="220">
+
+**"It works on my machine."**
+
+</td>
+
+</tr>
+</table>
+
+
 
 <br/>
 
